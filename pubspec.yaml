@@ -1,0 +1,22 @@
+name: task_pomodoro_app
+description: A task management app with Pomodoro features
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'  # Updated SDK constraint
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  flutter_local_notifications: ^9.9.1
+  google_fonts: ^4.0.4
+  animations: ^2.0.7
+  uuid: ^3.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

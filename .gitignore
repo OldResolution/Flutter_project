@@ -1,0 +1,56 @@
+# Flutter & Dart build files  
+build/  
+.dart_tool/  
+.packages  
+.pub/  
+.flutter-plugins  
+.flutter-plugins-dependencies  
+
+# Dependency lock files (can be regenerated)  
+pubspec.lock  
+
+# IDE & Editor specific files  
+.idea/  
+*.iml  
+*.vscode/  
+
+# macOS & iOS specific files  
+ios/Flutter/.last_build_id  
+ios/.symlinks/  
+ios/Pods/  
+macos/.symlinks/  
+macos/Flutter/ephemeral/  
+
+# Android specific files  
+android/.gradle/  
+android/.idea/  
+android/app/key.jks  
+android/key.properties  
+android/local.properties  
+android/app/build/  
+android/.cxx/  
+
+# Web specific files  
+web/.dart_tool/  
+web/.firebase/  
+
+# Windows & Linux specific files  
+windows/.dart_tool/  
+linux/.dart_tool/  
+
+# Logs & Crash Reports  
+*.log  
+crashlytics/  
+firebase/  
+
+# Coverage & Generated Files  
+coverage/  
+*.generated.*  
+
+# Temporary & Other Unnecessary Files  
+.DS_Store  
+*.lock  
+*.bak  
+*.swp  
+*.swo  
+*.swn  
