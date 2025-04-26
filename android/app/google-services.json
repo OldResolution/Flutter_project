@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009771374510",
+    "project_id": "taskpomo-65d34",
+    "storage_bucket": "taskpomo-65d34.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009771374510:android:6c31f3741140ad5988ca3f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0xfO0naB-iaELCMCaK3PJWvfYgiL7uvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
